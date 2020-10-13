@@ -1,0 +1,6 @@
+Andrea Lorenzo Polo - Course on Computer Graphics
+
+
+To run the program, place all the files in the same folder. Images are stored in the folder Images 
+and libraries and their headers in the folder Libraries. The libraries are compiled and the run is
+built on Win32. 
