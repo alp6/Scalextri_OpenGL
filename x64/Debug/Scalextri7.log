@@ -1,0 +1,153 @@
+﻿  Car.cpp
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(29,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(29,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(31,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(37,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(42,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(43,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(45,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(51,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(52,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(60,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(61,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(63,13): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(65,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(66,30): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(69,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(70,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(74,28): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(81,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(82,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(105,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(105,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(106,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(106,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(146,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(147,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(152,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(152,55): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(153,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(153,56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(160,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(163,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(163,60): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(169,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(169,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(170,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(170,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(174,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(174,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(175,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(179,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(179,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(180,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(184,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(184,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(184,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(184,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(189,63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(190,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Car.cpp(207,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Scene.cpp
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(20,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(64,76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(64,98): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(64,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(65,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(65,95): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(65,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(66,75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(66,97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(66,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(67,75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(67,97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(67,58): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(70,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(71,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(71,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(72,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(72,53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(73,76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(73,99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(73,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(74,76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(74,99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(74,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(83,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(83,95): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(83,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(84,73): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(84,93): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(84,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(107,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(107,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(107,87): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(107,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(108,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(108,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(108,87): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(108,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(109,71): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(109,93): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(109,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(110,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(110,93): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(110,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(119,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(119,88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(119,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(120,69): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(120,88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(120,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(121,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(121,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(121,97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(121,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(122,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(122,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(122,97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\Scene.cpp(122,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\main.cpp(26,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\main.cpp(26,37): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\main.cpp(32,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\main.cpp(33,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\main.cpp(45,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  menu.cpp
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(15,44): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(15,44): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(16,42): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(16,42): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(17,37): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(17,37): warning C4302: 'type cast': truncation from 'void *' to 'int'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(18,10): warning C4101: 's': unreferenced local variable
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(53,77): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(53,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(53,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(60,77): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(60,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(60,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(67,77): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(67,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(67,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(75,77): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(75,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(75,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(83,77): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(83,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(83,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(91,77): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(91,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(95,77): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(95,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(95,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(103,78): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(103,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(103,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(111,78): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(111,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(111,87): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\Scalextri7\menu.cpp(33,12): warning C4101: 'num': unreferenced local variable
+  Generating Code...
+texturedealer.obj : error LNK2019: unresolved external symbol SOIL_load_OGL_texture referenced in function "public: __cdecl TextureDeal::TextureDeal(char const *)" (??0TextureDeal@@QEAA@PEBD@Z)
+C:\Users\andre\Documents\OpenGL\Proyectos\Otros\Scalextri7\x64\Debug\Scalextri7.exe : fatal error LNK1120: 1 unresolved externals
